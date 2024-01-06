@@ -60,9 +60,9 @@ nav a{
 
 header{
    background-color: #fff8f3;
-   /* background-image: url('../image/back.webp'); */
+   background-image: url('../image/devolopar.jpg'); 
    background-repeat: no-repeat;
-   background-position: bottom right;
+   background-position: top left;
 }
 .banner{
    padding: 30px 30px 0px 150px ;
